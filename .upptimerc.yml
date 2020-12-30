@@ -6,10 +6,13 @@ repo: mon-ip # Your GitHub repository name
 sites:
   - name: Geschmacksache
     url: https://www.geschmacksache.online
+    maxResponseTime: 5000
   - name: Fabula-Fantastica
     url: https://www.fabula-fantastica.online
+    maxResponseTime: 5000
   - name: Fabula-Fantastica - SWTOR
     url: https://swtor.fabula-fantastica.online
+    maxResponseTime: 5000
     
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
