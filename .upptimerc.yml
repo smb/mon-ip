@@ -13,7 +13,13 @@ sites:
   - name: Fabula-Fantastica - SWTOR
     url: https://swtor.fabula-fantastica.online
     maxResponseTime: 5000
-    
+  - name: Fabula-Fantastica - MDZS
+    url: https://mdzs.fabula-fantastica.online
+    maxResponseTime: 5000
+  - name: Stefanie-Braun.de
+    url: https://www.stefanie-braun.de
+    maxResponseTime: 5000
+
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   # cname: status.fabula-fantastica.online
