@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 750,
-    "timeDay": 704,
-    "timeWeek": 840,
+    "time": 749,
+    "timeDay": 724,
+    "timeWeek": 782,
     "timeMonth": 771,
-    "timeYear": 750,
+    "timeYear": 749,
     "dailyMinutesDown": {
       "2021-01-31": 17
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1202,
-    "timeDay": 1132,
-    "timeWeek": 1303,
-    "timeMonth": 1192,
+    "timeDay": 1274,
+    "timeWeek": 1267,
+    "timeMonth": 1198,
     "timeYear": 1202,
     "dailyMinutesDown": {
       "2021-01-31": 17
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1339,
-    "timeDay": 1057,
-    "timeWeek": 1317,
-    "timeMonth": 1185,
-    "timeYear": 1339,
+    "time": 1338,
+    "timeDay": 1118,
+    "timeWeek": 1208,
+    "timeMonth": 1186,
+    "timeYear": 1338,
     "dailyMinutesDown": {
       "2021-01-31": 17
     }
@@ -65,15 +65,15 @@
     "icon": "https://favicons.githubusercontent.com/swtor.fabula-fantastica.online",
     "slug": "fabula-fantastica-swtor",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
+    "uptimeYear": "99.98%",
     "time": 1141,
-    "timeDay": 1063,
-    "timeWeek": 1253,
-    "timeMonth": 1184,
+    "timeDay": 1120,
+    "timeWeek": 1187,
+    "timeMonth": 1187,
     "timeYear": 1141,
     "dailyMinutesDown": {
       "2021-03-13": 28,
@@ -91,11 +91,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 836,
-    "timeDay": 587,
-    "timeWeek": 674,
-    "timeMonth": 672,
-    "timeYear": 836,
+    "time": 834,
+    "timeDay": 598,
+    "timeWeek": 639,
+    "timeMonth": 671,
+    "timeYear": 834,
     "dailyMinutesDown": {
       "2021-01-31": 17
     }
