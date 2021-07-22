@@ -46,10 +46,10 @@
     "url": "https://www.fabula-fantastica.online",
     "icon": "https://favicons.githubusercontent.com/www.fabula-fantastica.online",
     "slug": "fabula-fantastica",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1331,
@@ -58,6 +58,7 @@
     "timeMonth": 1411,
     "timeYear": 1331,
     "dailyMinutesDown": {
+      "2021-07-22": 2,
       "2021-06-14": 29,
       "2021-01-31": 17
     }
@@ -89,9 +90,9 @@
     "url": "https://mdzs.fabula-fantastica.online",
     "icon": "https://favicons.githubusercontent.com/mdzs.fabula-fantastica.online",
     "slug": "fabula-fantastica-mdzs",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -101,6 +102,7 @@
     "timeMonth": 729,
     "timeYear": 777,
     "dailyMinutesDown": {
+      "2021-07-22": 0,
       "2021-06-14": 28,
       "2021-01-31": 17
     }
