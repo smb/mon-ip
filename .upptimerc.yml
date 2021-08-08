@@ -7,9 +7,6 @@ sites:
   - name: Stefanie-Braun.de
     url: https://www.stefanie-braun.de
     maxResponseTime: 5000
-  - name: Geschmacksache
-    url: https://www.geschmacksache.online
-    maxResponseTime: 5000
   - name: Fabula-Fantastica
     url: https://www.fabula-fantastica.online
     maxResponseTime: 5000
@@ -18,6 +15,9 @@ sites:
     maxResponseTime: 5000
   - name: Fabula-Fantastica - MDZS
     url: https://mdzs.fabula-fantastica.online
+    maxResponseTime: 5000
+  - name: Geschmacksache
+    url: https://www.geschmacksache.online
     maxResponseTime: 5000
 
 status-website:
