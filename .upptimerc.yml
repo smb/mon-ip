@@ -8,7 +8,7 @@ sites:
     url: https://www.stefanie-braun.de
     maxResponseTime: 5000
   - name: Fabula-Fantastica
-    url: https://www.fabula-fantastica.online
+    url: https://fabula-fantastica.online
     maxResponseTime: 5000
   - name: Fabula-Fantastica - SWTOR
     url: https://swtor.fabula-fantastica.online
