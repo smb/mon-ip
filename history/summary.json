@@ -11,13 +11,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 811,
-    "timeDay": 721,
-    "timeWeek": 749,
+    "timeDay": 690,
+    "timeWeek": 759,
     "timeMonth": 758,
     "timeYear": 818,
-    "dailyMinutesDown": {
-      "2021-01-31": 17
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Fabula-Fantastica",
@@ -25,16 +23,16 @@
     "icon": "https://favicons.githubusercontent.com/fabula-fantastica.online",
     "slug": "fabula-fantastica",
     "status": "up",
-    "uptime": "94.67%",
+    "uptime": "94.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "94.23%",
-    "time": 1200,
-    "timeDay": 578,
-    "timeWeek": 641,
+    "time": 1198,
+    "timeDay": 581,
+    "timeWeek": 633,
     "timeMonth": 654,
-    "timeYear": 1176,
+    "timeYear": 1174,
     "dailyMinutesDown": {
       "2021-11-15": 769,
       "2021-11-14": 1440,
@@ -60,8 +58,7 @@
       "2021-10-25": 292,
       "2021-08-08": 387,
       "2021-07-28": 20,
-      "2021-06-14": 29,
-      "2021-01-31": 17
+      "2021-06-14": 29
     }
   },
   {
@@ -75,19 +72,18 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.52%",
-    "time": 964,
-    "timeDay": 563,
-    "timeWeek": 620,
+    "time": 963,
+    "timeDay": 557,
+    "timeWeek": 616,
     "timeMonth": 614,
-    "timeYear": 951,
+    "timeYear": 950,
     "dailyMinutesDown": {
       "2021-10-27": 682,
       "2021-10-26": 1440,
       "2021-10-25": 292,
       "2021-07-28": 20,
       "2021-06-14": 28,
-      "2021-03-13": 28,
-      "2021-01-31": 17
+      "2021-03-13": 28
     }
   },
   {
@@ -96,23 +92,22 @@
     "icon": "https://favicons.githubusercontent.com/mdzs.fabula-fantastica.online",
     "slug": "fabula-fantastica-mdzs",
     "status": "up",
-    "uptime": "99.56%",
+    "uptime": "99.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.53%",
     "time": 732,
-    "timeDay": 724,
+    "timeDay": 542,
     "timeWeek": 629,
-    "timeMonth": 622,
-    "timeYear": 713,
+    "timeMonth": 620,
+    "timeYear": 712,
     "dailyMinutesDown": {
       "2021-10-27": 682,
       "2021-10-26": 1440,
       "2021-10-25": 292,
       "2021-07-28": 20,
-      "2021-06-14": 28,
-      "2021-01-31": 17
+      "2021-06-14": 28
     }
   },
   {
@@ -126,16 +121,15 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1259,
-    "timeDay": 1210,
-    "timeWeek": 1153,
-    "timeMonth": 1184,
+    "time": 1258,
+    "timeDay": 1051,
+    "timeWeek": 1144,
+    "timeMonth": 1172,
     "timeYear": 1266,
     "dailyMinutesDown": {
       "2021-07-28": 20,
       "2021-06-14": 29,
-      "2021-05-28": 41,
-      "2021-01-31": 17
+      "2021-05-28": 41
     }
   }
 ]
