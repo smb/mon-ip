@@ -10,9 +10,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "93.12%",
     "uptimeYear": "99.30%",
-    "time": 834,
-    "timeDay": 901,
-    "timeWeek": 1029,
+    "time": 833,
+    "timeDay": 686,
+    "timeWeek": 1024,
     "timeMonth": 921,
     "timeYear": 840,
     "dailyMinutesDown": {
@@ -31,16 +31,16 @@
     "icon": "https://favicons.githubusercontent.com/fabula-fantastica.online",
     "slug": "fabula-fantastica",
     "status": "up",
-    "uptime": "95.87%",
+    "uptime": "95.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "93.05%",
     "uptimeYear": "93.53%",
-    "time": 944,
-    "timeDay": 671,
-    "timeWeek": 813,
-    "timeMonth": 741,
-    "timeYear": 845,
+    "time": 943,
+    "timeDay": 550,
+    "timeWeek": 814,
+    "timeMonth": 743,
+    "timeYear": 843,
     "dailyMinutesDown": {
       "2022-07-10": 532,
       "2022-07-09": 1440,
@@ -73,8 +73,7 @@
       "2021-10-27": 1440,
       "2021-10-26": 1440,
       "2021-10-25": 292,
-      "2021-08-08": 387,
-      "2021-07-28": 20
+      "2021-08-08": 387
     }
   },
   {
@@ -83,16 +82,16 @@
     "icon": "https://favicons.githubusercontent.com/swtor.fabula-fantastica.online",
     "slug": "fabula-fantastica-swtor",
     "status": "up",
-    "uptime": "99.24%",
+    "uptime": "99.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "93.05%",
     "uptimeYear": "98.83%",
-    "time": 811,
-    "timeDay": 698,
-    "timeWeek": 793,
-    "timeMonth": 725,
-    "timeYear": 696,
+    "time": 810,
+    "timeDay": 544,
+    "timeWeek": 796,
+    "timeMonth": 727,
+    "timeYear": 694,
     "dailyMinutesDown": {
       "2022-07-10": 532,
       "2022-07-09": 1440,
@@ -104,8 +103,7 @@
       "2022-04-05": 41,
       "2021-10-27": 682,
       "2021-10-26": 1440,
-      "2021-10-25": 292,
-      "2021-07-28": 20
+      "2021-10-25": 292
     }
   },
   {
@@ -120,9 +118,9 @@
     "uptimeMonth": "93.06%",
     "uptimeYear": "98.83%",
     "time": 671,
-    "timeDay": 683,
-    "timeWeek": 817,
-    "timeMonth": 731,
+    "timeDay": 548,
+    "timeWeek": 797,
+    "timeMonth": 732,
     "timeYear": 670,
     "dailyMinutesDown": {
       "2022-07-10": 532,
@@ -135,8 +133,7 @@
       "2022-04-05": 40,
       "2021-10-27": 682,
       "2021-10-26": 1440,
-      "2021-10-25": 292,
-      "2021-07-28": 20
+      "2021-10-25": 292
     }
   },
   {
@@ -150,11 +147,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "93.12%",
     "uptimeYear": "99.29%",
-    "time": 1210,
-    "timeDay": 1164,
-    "timeWeek": 1287,
-    "timeMonth": 1133,
-    "timeYear": 1198,
+    "time": 1209,
+    "timeDay": 962,
+    "timeWeek": 1294,
+    "timeMonth": 1138,
+    "timeYear": 1197,
     "dailyMinutesDown": {
       "2022-07-10": 532,
       "2022-07-09": 1440,
@@ -162,8 +159,7 @@
       "2022-06-07": 399,
       "2022-06-06": 225,
       "2022-05-06": 22,
-      "2022-04-05": 40,
-      "2021-07-28": 20
+      "2022-04-05": 40
     }
   }
 ]
