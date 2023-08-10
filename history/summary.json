@@ -10,16 +10,15 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.72%",
-    "time": 1164,
-    "timeDay": 1263,
-    "timeWeek": 1381,
-    "timeMonth": 1351,
-    "timeYear": 1259,
+    "time": 1166,
+    "timeDay": 1419,
+    "timeWeek": 1384,
+    "timeMonth": 1365,
+    "timeYear": 1261,
     "dailyMinutesDown": {
       "2023-01-25": 22,
       "2022-09-11": 577,
-      "2022-09-10": 316,
-      "2022-08-10": 583
+      "2022-09-10": 316
     }
   },
   {
@@ -28,22 +27,21 @@
     "icon": "https://icons.duckduckgo.com/ip3/fabula-fantastica.online.ico",
     "slug": "fabula-fantastica",
     "status": "up",
-    "uptime": "97.40%",
+    "uptime": "97.41%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.71%",
-    "time": 657,
-    "timeDay": 643,
-    "timeWeek": 657,
-    "timeMonth": 683,
+    "time": 658,
+    "timeDay": 648,
+    "timeWeek": 658,
+    "timeMonth": 689,
     "timeYear": 649,
     "dailyMinutesDown": {
       "2023-01-25": 18,
       "2023-01-15": 18,
       "2022-09-11": 577,
-      "2022-09-10": 315,
-      "2022-08-10": 583
+      "2022-09-10": 315
     }
   },
   {
@@ -58,15 +56,14 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.72%",
     "time": 665,
-    "timeDay": 654,
-    "timeWeek": 652,
-    "timeMonth": 660,
-    "timeYear": 658,
+    "timeDay": 625,
+    "timeWeek": 644,
+    "timeMonth": 666,
+    "timeYear": 657,
     "dailyMinutesDown": {
       "2023-01-25": 18,
       "2022-09-11": 577,
-      "2022-09-10": 315,
-      "2022-08-10": 582
+      "2022-09-10": 315
     }
   },
   {
@@ -80,16 +77,15 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.72%",
-    "time": 650,
-    "timeDay": 618,
-    "timeWeek": 630,
-    "timeMonth": 623,
-    "timeYear": 642,
+    "time": 649,
+    "timeDay": 630,
+    "timeWeek": 625,
+    "timeMonth": 630,
+    "timeYear": 641,
     "dailyMinutesDown": {
       "2023-01-25": 17,
       "2022-09-11": 577,
-      "2022-09-10": 314,
-      "2022-08-10": 582
+      "2022-09-10": 314
     }
   },
   {
@@ -103,16 +99,15 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.71%",
-    "time": 1586,
-    "timeDay": 1588,
-    "timeWeek": 1812,
-    "timeMonth": 1816,
-    "timeYear": 1740,
+    "time": 1588,
+    "timeDay": 1910,
+    "timeWeek": 1813,
+    "timeMonth": 1837,
+    "timeYear": 1742,
     "dailyMinutesDown": {
       "2023-01-25": 38,
       "2022-09-11": 577,
-      "2022-09-10": 314,
-      "2022-08-10": 581
+      "2022-09-10": 314
     }
   }
 ]
