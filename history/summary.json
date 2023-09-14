@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1202,
-    "timeDay": 1237,
-    "timeWeek": 1322,
-    "timeMonth": 1322,
-    "timeYear": 1295,
+    "time": 1203,
+    "timeDay": 1342,
+    "timeWeek": 1326,
+    "timeMonth": 1334,
+    "timeYear": 1296,
     "dailyMinutesDown": {
       "2023-01-25": 22
     }
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/fabula-fantastica.online.ico",
     "slug": "fabula-fantastica",
     "status": "up",
-    "uptime": "97.49%",
+    "uptime": "97.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 659,
-    "timeDay": 627,
-    "timeWeek": 641,
-    "timeMonth": 636,
-    "timeYear": 644,
+    "timeDay": 621,
+    "timeWeek": 640,
+    "timeMonth": 639,
+    "timeYear": 645,
     "dailyMinutesDown": {
       "2023-01-25": 18,
       "2023-01-15": 18
@@ -51,10 +51,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 664,
-    "timeDay": 599,
-    "timeWeek": 627,
-    "timeMonth": 612,
+    "time": 663,
+    "timeDay": 589,
+    "timeWeek": 625,
+    "timeMonth": 615,
     "timeYear": 650,
     "dailyMinutesDown": {
       "2023-01-25": 18
@@ -71,11 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 651,
-    "timeDay": 605,
-    "timeWeek": 617,
-    "timeMonth": 614,
-    "timeYear": 635,
+    "time": 650,
+    "timeDay": 646,
+    "timeWeek": 625,
+    "timeMonth": 616,
+    "timeYear": 636,
     "dailyMinutesDown": {
       "2023-01-25": 17
     }
@@ -91,11 +91,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1643,
-    "timeDay": 1784,
-    "timeWeek": 1965,
-    "timeMonth": 1823,
-    "timeYear": 1810,
+    "time": 1644,
+    "timeDay": 1995,
+    "timeWeek": 2006,
+    "timeMonth": 1843,
+    "timeYear": 1813,
     "dailyMinutesDown": {
       "2023-01-25": 38
     }
