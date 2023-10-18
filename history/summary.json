@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.stefanie-braun.de.ico",
     "slug": "stefanie-braun-de",
     "status": "up",
-    "uptime": "99.64%",
+    "uptime": "99.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1226,
-    "timeDay": 1329,
-    "timeWeek": 1323,
-    "timeMonth": 1249,
-    "timeYear": 1301,
+    "time": 1227,
+    "timeDay": 1286,
+    "timeWeek": 1358,
+    "timeMonth": 1245,
+    "timeYear": 1302,
     "dailyMinutesDown": {
       "2023-01-25": 22
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 652,
-    "timeDay": 664,
-    "timeWeek": 653,
-    "timeMonth": 608,
+    "timeDay": 627,
+    "timeWeek": 667,
+    "timeMonth": 607,
     "timeYear": 643,
     "dailyMinutesDown": {
       "2023-01-25": 18,
@@ -51,10 +51,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 656,
-    "timeDay": 589,
-    "timeWeek": 589,
-    "timeMonth": 601,
+    "time": 655,
+    "timeDay": 584,
+    "timeWeek": 608,
+    "timeMonth": 598,
     "timeYear": 646,
     "dailyMinutesDown": {
       "2023-01-25": 18
@@ -72,9 +72,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 641,
-    "timeDay": 571,
-    "timeWeek": 576,
-    "timeMonth": 571,
+    "timeDay": 582,
+    "timeWeek": 596,
+    "timeMonth": 569,
     "timeYear": 628,
     "dailyMinutesDown": {
       "2023-01-25": 17
@@ -91,11 +91,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1692,
-    "timeDay": 1848,
-    "timeWeek": 1858,
-    "timeMonth": 1826,
-    "timeYear": 1821,
+    "time": 1694,
+    "timeDay": 1913,
+    "timeWeek": 1913,
+    "timeMonth": 1815,
+    "timeYear": 1823,
     "dailyMinutesDown": {
       "2023-01-25": 38
     }
