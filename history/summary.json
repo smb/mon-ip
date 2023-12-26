@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1285,
-    "timeDay": 1265,
-    "timeWeek": 1088,
-    "timeMonth": 1296,
-    "timeYear": 1321,
+    "timeDay": 1151,
+    "timeWeek": 1109,
+    "timeMonth": 1315,
+    "timeYear": 1320,
     "dailyMinutesDown": {
       "2023-01-25": 22
     }
@@ -25,15 +25,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/fabula-fantastica.online.ico",
     "slug": "fabula-fantastica",
     "status": "up",
-    "uptime": "97.73%",
+    "uptime": "97.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 653,
-    "timeDay": 581,
-    "timeWeek": 523,
-    "timeMonth": 756,
+    "timeDay": 538,
+    "timeWeek": 532,
+    "timeMonth": 624,
     "timeYear": 658,
     "dailyMinutesDown": {
       "2023-01-25": 18,
@@ -52,10 +52,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 644,
-    "timeDay": 503,
-    "timeWeek": 495,
-    "timeMonth": 580,
-    "timeYear": 636,
+    "timeDay": 511,
+    "timeWeek": 506,
+    "timeMonth": 582,
+    "timeYear": 635,
     "dailyMinutesDown": {
       "2023-01-25": 18
     }
@@ -72,9 +72,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 660,
-    "timeDay": 536,
-    "timeWeek": 470,
-    "timeMonth": 584,
+    "timeDay": 590,
+    "timeWeek": 491,
+    "timeMonth": 588,
     "timeYear": 658,
     "dailyMinutesDown": {
       "2023-01-25": 17
@@ -85,18 +85,19 @@
     "url": "https://www.geschmacksache.online",
     "icon": "https://icons.duckduckgo.com/ip3/www.geschmacksache.online.ico",
     "slug": "geschmacksache",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1792,
-    "timeDay": 1684,
-    "timeWeek": 1539,
-    "timeMonth": 1783,
-    "timeYear": 1839,
+    "time": 1794,
+    "timeDay": 1373,
+    "timeWeek": 1526,
+    "timeMonth": 1764,
+    "timeYear": 1836,
     "dailyMinutesDown": {
+      "2023-12-26": 0,
       "2023-01-25": 38
     }
   }
