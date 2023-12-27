@@ -6,17 +6,16 @@
     "slug": "stefanie-braun-de",
     "status": "up",
     "uptime": "99.67%",
-    "uptimeDay": "99.03%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1287,
     "timeDay": 1094,
     "timeWeek": 1100,
     "timeMonth": 1306,
     "timeYear": 1320,
     "dailyMinutesDown": {
-      "2023-12-26": 14,
       "2023-01-25": 22
     }
   },
@@ -26,10 +25,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/fabula-fantastica.online.ico",
     "slug": "fabula-fantastica",
     "status": "up",
-    "uptime": "97.73%",
-    "uptimeDay": "99.05%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptime": "97.74%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 653,
     "timeDay": 670,
@@ -37,7 +36,6 @@
     "timeMonth": 629,
     "timeYear": 658,
     "dailyMinutesDown": {
-      "2023-12-26": 14,
       "2023-01-25": 18,
       "2023-01-15": 18
     }
@@ -49,17 +47,16 @@
     "slug": "fabula-fantastica-swtor",
     "status": "up",
     "uptime": "99.51%",
-    "uptimeDay": "99.06%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 644,
     "timeDay": 600,
     "timeWeek": 529,
     "timeMonth": 585,
     "timeYear": 635,
     "dailyMinutesDown": {
-      "2023-12-26": 13,
       "2023-01-25": 18
     }
   },
@@ -70,17 +67,16 @@
     "slug": "fabula-fantastica-mdzs",
     "status": "up",
     "uptime": "99.51%",
-    "uptimeDay": "99.08%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 659,
     "timeDay": 598,
     "timeWeek": 506,
     "timeMonth": 589,
     "timeYear": 657,
     "dailyMinutesDown": {
-      "2023-12-26": 13,
       "2023-01-25": 17
     }
   },
@@ -91,9 +87,9 @@
     "slug": "geschmacksache",
     "status": "up",
     "uptime": "99.66%",
-    "uptimeDay": "99.10%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1799,
     "timeDay": 1492,
@@ -101,7 +97,6 @@
     "timeMonth": 1755,
     "timeYear": 1835,
     "dailyMinutesDown": {
-      "2023-12-26": 13,
       "2023-01-25": 38
     }
   }
