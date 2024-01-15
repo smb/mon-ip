@@ -6,17 +6,16 @@
     "slug": "stefanie-braun-de",
     "status": "up",
     "uptime": "99.67%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1307,
     "timeDay": 1640,
     "timeWeek": 1465,
     "timeMonth": 1282,
     "timeYear": 1315,
     "dailyMinutesDown": {
-      "2024-01-14": 7,
       "2023-01-25": 22
     }
   },
@@ -37,8 +36,7 @@
     "timeMonth": 621,
     "timeYear": 654,
     "dailyMinutesDown": {
-      "2023-01-25": 18,
-      "2023-01-15": 18
+      "2023-01-25": 18
     }
   },
   {
