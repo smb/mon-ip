@@ -4,19 +4,19 @@
     "url": "https://www.stefanie-braun.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.stefanie-braun.de.ico",
     "slug": "stefanie-braun-de",
-    "status": "down",
+    "status": "up",
     "uptime": "99.68%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 1306,
-    "timeDay": 1226,
-    "timeWeek": 1267,
-    "timeMonth": 1297,
-    "timeYear": 1314,
+    "time": 1310,
+    "timeDay": 2201,
+    "timeWeek": 1588,
+    "timeMonth": 1378,
+    "timeYear": 1322,
     "dailyMinutesDown": {
-      "2024-01-27": 1
+      "2024-01-27": 9
     }
   },
   {
