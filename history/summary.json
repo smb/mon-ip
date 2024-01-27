@@ -4,10 +4,10 @@
     "url": "https://www.stefanie-braun.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.stefanie-braun.de.ico",
     "slug": "stefanie-braun-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1304,
@@ -15,7 +15,9 @@
     "timeWeek": 1246,
     "timeMonth": 1293,
     "timeYear": 1314,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-27": 1
+    }
   },
   {
     "name": "Fabula-Fantastica",
