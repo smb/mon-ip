@@ -4,19 +4,19 @@
     "url": "https://www.stefanie-braun.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.stefanie-braun.de.ico",
     "slug": "stefanie-braun-de",
-    "status": "down",
+    "status": "up",
     "uptime": "99.68%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.51%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 1317,
-    "timeDay": 1872,
-    "timeWeek": 1431,
-    "timeMonth": 1418,
-    "timeYear": 1331,
+    "time": 1318,
+    "timeDay": 1755,
+    "timeWeek": 1457,
+    "timeMonth": 1424,
+    "timeYear": 1332,
     "dailyMinutesDown": {
-      "2024-02-12": 2
+      "2024-02-12": 7
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://swtor.fabula-fantastica.online",
     "icon": "https://icons.duckduckgo.com/ip3/swtor.fabula-fantastica.online.ico",
     "slug": "fabula-fantastica-swtor",
-    "status": "down",
+    "status": "up",
     "uptime": "99.53%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 636,
-    "timeDay": 750,
-    "timeWeek": 643,
-    "timeMonth": 598,
-    "timeYear": 625,
+    "time": 635,
+    "timeDay": 436,
+    "timeWeek": 578,
+    "timeMonth": 583,
+    "timeYear": 624,
     "dailyMinutesDown": {
-      "2024-02-12": 1
+      "2024-02-12": 6
     }
   },
   {
@@ -62,19 +62,19 @@
     "url": "https://mdzs.fabula-fantastica.online",
     "icon": "https://icons.duckduckgo.com/ip3/mdzs.fabula-fantastica.online.ico",
     "slug": "fabula-fantastica-mdzs",
-    "status": "down",
+    "status": "up",
     "uptime": "99.53%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 649,
-    "timeDay": 739,
-    "timeWeek": 631,
-    "timeMonth": 591,
-    "timeYear": 645,
+    "time": 648,
+    "timeDay": 434,
+    "timeWeek": 568,
+    "timeMonth": 577,
+    "timeYear": 644,
     "dailyMinutesDown": {
-      "2024-02-12": 0
+      "2024-02-12": 6
     }
   },
   {
