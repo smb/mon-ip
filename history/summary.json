@@ -6,18 +6,16 @@
     "slug": "stefanie-braun-de",
     "status": "up",
     "uptime": "99.68%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1318,
-    "timeDay": 1755,
-    "timeWeek": 1457,
-    "timeMonth": 1424,
+    "timeDay": 1424,
+    "timeWeek": 1401,
+    "timeMonth": 1414,
     "timeYear": 1332,
-    "dailyMinutesDown": {
-      "2024-02-12": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Fabula-Fantastica",
@@ -30,10 +28,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 652,
-    "timeDay": 820,
-    "timeWeek": 655,
-    "timeMonth": 660,
+    "time": 651,
+    "timeDay": 481,
+    "timeWeek": 623,
+    "timeMonth": 650,
     "timeYear": 656,
     "dailyMinutesDown": {}
   },
@@ -44,18 +42,16 @@
     "slug": "fabula-fantastica-swtor",
     "status": "up",
     "uptime": "99.53%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 635,
-    "timeDay": 436,
-    "timeWeek": 578,
-    "timeMonth": 583,
+    "timeDay": 307,
+    "timeWeek": 551,
+    "timeMonth": 577,
     "timeYear": 624,
-    "dailyMinutesDown": {
-      "2024-02-12": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Fabula-Fantastica - MDZS",
@@ -64,18 +60,16 @@
     "slug": "fabula-fantastica-mdzs",
     "status": "up",
     "uptime": "99.53%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 648,
-    "timeDay": 434,
-    "timeWeek": 568,
-    "timeMonth": 577,
+    "timeDay": 341,
+    "timeWeek": 549,
+    "timeMonth": 572,
     "timeYear": 644,
-    "dailyMinutesDown": {
-      "2024-02-12": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Geschmacksache",
@@ -89,9 +83,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1816,
-    "timeDay": 2344,
-    "timeWeek": 1890,
-    "timeMonth": 1762,
+    "timeDay": 1607,
+    "timeWeek": 1834,
+    "timeMonth": 1755,
     "timeYear": 1815,
     "dailyMinutesDown": {}
   }
