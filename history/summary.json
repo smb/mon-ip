@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 1316,
     "timeDay": 1047,
-    "timeWeek": 1214,
+    "timeWeek": 1154,
     "timeMonth": 1377,
     "timeYear": 1327,
     "dailyMinutesDown": {}
@@ -22,36 +22,40 @@
     "url": "https://fabula-fantastica.online",
     "icon": "https://icons.duckduckgo.com/ip3/fabula-fantastica.online.ico",
     "slug": "fabula-fantastica",
-    "status": "up",
+    "status": "down",
     "uptime": "97.84%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 651,
-    "timeDay": 502,
-    "timeWeek": 530,
-    "timeMonth": 638,
-    "timeYear": 653,
-    "dailyMinutesDown": {}
+    "time": 653,
+    "timeDay": 1045,
+    "timeWeek": 663,
+    "timeMonth": 668,
+    "timeYear": 656,
+    "dailyMinutesDown": {
+      "2024-02-19": 0
+    }
   },
   {
     "name": "Fabula-Fantastica - SWTOR",
     "url": "https://swtor.fabula-fantastica.online",
     "icon": "https://icons.duckduckgo.com/ip3/swtor.fabula-fantastica.online.ico",
     "slug": "fabula-fantastica-swtor",
-    "status": "up",
+    "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 635,
-    "timeDay": 1471,
-    "timeWeek": 588,
-    "timeMonth": 603,
+    "timeDay": 1105,
+    "timeWeek": 665,
+    "timeMonth": 607,
     "timeYear": 623,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-19": 0
+    }
   },
   {
     "name": "Fabula-Fantastica - MDZS",
@@ -66,7 +70,7 @@
     "uptimeYear": "100.00%",
     "time": 647,
     "timeDay": 460,
-    "timeWeek": 499,
+    "timeWeek": 552,
     "timeMonth": 574,
     "timeYear": 641,
     "dailyMinutesDown": {}
