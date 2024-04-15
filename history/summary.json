@@ -6,9 +6,9 @@
     "slug": "stefanie-braun-de",
     "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 1318,
     "timeDay": 1158,
@@ -16,7 +16,7 @@
     "timeMonth": 1260,
     "timeYear": 1329,
     "dailyMinutesDown": {
-      "2024-04-15": 1
+      "2024-04-15": 10
     }
   },
   {
@@ -24,10 +24,10 @@
     "url": "https://fabula-fantastica.online",
     "icon": "https://icons.duckduckgo.com/ip3/fabula-fantastica.online.ico",
     "slug": "fabula-fantastica",
-    "status": "up",
+    "status": "down",
     "uptime": "97.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 650,
@@ -35,17 +35,19 @@
     "timeWeek": 639,
     "timeMonth": 600,
     "timeYear": 652,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-15": 2
+    }
   },
   {
     "name": "Fabula-Fantastica - SWTOR",
     "url": "https://swtor.fabula-fantastica.online",
     "icon": "https://icons.duckduckgo.com/ip3/swtor.fabula-fantastica.online.ico",
     "slug": "fabula-fantastica-swtor",
-    "status": "up",
+    "status": "down",
     "uptime": "99.55%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 627,
@@ -53,17 +55,19 @@
     "timeWeek": 608,
     "timeMonth": 584,
     "timeYear": 619,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-15": 1
+    }
   },
   {
     "name": "Fabula-Fantastica - MDZS",
     "url": "https://mdzs.fabula-fantastica.online",
     "icon": "https://icons.duckduckgo.com/ip3/mdzs.fabula-fantastica.online.ico",
     "slug": "fabula-fantastica-mdzs",
-    "status": "up",
+    "status": "down",
     "uptime": "99.56%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 638,
@@ -71,7 +75,9 @@
     "timeWeek": 553,
     "timeMonth": 567,
     "timeYear": 634,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-15": 1
+    }
   },
   {
     "name": "Geschmacksache",
@@ -80,9 +86,9 @@
     "slug": "geschmacksache",
     "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "98.86%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 1817,
     "timeDay": 1883,
@@ -90,7 +96,7 @@
     "timeMonth": 1781,
     "timeYear": 1796,
     "dailyMinutesDown": {
-      "2024-04-15": 7
+      "2024-04-15": 16
     }
   }
 ]
