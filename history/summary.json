@@ -4,19 +4,19 @@
     "url": "https://www.stefanie-braun.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.stefanie-braun.de.ico",
     "slug": "stefanie-braun-de",
-    "status": "down",
+    "status": "up",
     "uptime": "99.70%",
-    "uptimeDay": "97.57%",
-    "uptimeWeek": "99.65%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "97.18%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
-    "time": 1322,
-    "timeDay": 2030,
-    "timeWeek": 1490,
-    "timeMonth": 1311,
-    "timeYear": 1333,
+    "time": 1320,
+    "timeDay": 1414,
+    "timeWeek": 1344,
+    "timeMonth": 1277,
+    "timeYear": 1330,
     "dailyMinutesDown": {
-      "2024-04-15": 35
+      "2024-04-15": 41
     }
   },
   {
@@ -60,9 +60,9 @@
     "url": "https://mdzs.fabula-fantastica.online",
     "icon": "https://icons.duckduckgo.com/ip3/mdzs.fabula-fantastica.online.ico",
     "slug": "fabula-fantastica-mdzs",
-    "status": "up",
+    "status": "down",
     "uptime": "99.55%",
-    "uptimeDay": "98.76%",
+    "uptimeDay": "98.73%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
@@ -82,9 +82,9 @@
     "slug": "geschmacksache",
     "status": "up",
     "uptime": "99.69%",
-    "uptimeDay": "96.47%",
-    "uptimeWeek": "99.50%",
-    "uptimeMonth": "99.88%",
+    "uptimeDay": "97.15%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
     "time": 1816,
     "timeDay": 1463,
@@ -92,7 +92,7 @@
     "timeMonth": 1740,
     "timeYear": 1792,
     "dailyMinutesDown": {
-      "2024-04-15": 51
+      "2024-04-15": 41
     }
   }
 ]
