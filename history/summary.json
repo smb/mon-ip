@@ -4,10 +4,10 @@
     "url": "https://www.stefanie-braun.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.stefanie-braun.de.ico",
     "slug": "stefanie-braun-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "97.65%",
-    "uptimeWeek": "99.66%",
+    "uptimeDay": "97.57%",
+    "uptimeWeek": "99.65%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
     "time": 1322,
@@ -16,7 +16,7 @@
     "timeMonth": 1311,
     "timeYear": 1333,
     "dailyMinutesDown": {
-      "2024-04-15": 34
+      "2024-04-15": 35
     }
   },
   {
@@ -80,19 +80,19 @@
     "url": "https://www.geschmacksache.online",
     "icon": "https://icons.duckduckgo.com/ip3/www.geschmacksache.online.ico",
     "slug": "geschmacksache",
-    "status": "down",
+    "status": "up",
     "uptime": "99.69%",
-    "uptimeDay": "97.14%",
-    "uptimeWeek": "99.59%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "96.47%",
+    "uptimeWeek": "99.50%",
+    "uptimeMonth": "99.88%",
     "uptimeYear": "99.99%",
     "time": 1816,
-    "timeDay": 1401,
-    "timeWeek": 1594,
-    "timeMonth": 1743,
+    "timeDay": 1463,
+    "timeWeek": 1600,
+    "timeMonth": 1740,
     "timeYear": 1792,
     "dailyMinutesDown": {
-      "2024-04-15": 41
+      "2024-04-15": 51
     }
   }
 ]
