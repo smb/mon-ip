@@ -4,19 +4,19 @@
     "url": "https://www.stefanie-braun.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.stefanie-braun.de.ico",
     "slug": "stefanie-braun-de",
-    "status": "down",
+    "status": "up",
     "uptime": "99.70%",
-    "uptimeDay": "97.57%",
-    "uptimeWeek": "99.65%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "97.19%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
     "time": 1321,
-    "timeDay": 1414,
-    "timeWeek": 1344,
-    "timeMonth": 1277,
-    "timeYear": 1330,
+    "timeDay": 1413,
+    "timeWeek": 1351,
+    "timeMonth": 1281,
+    "timeYear": 1331,
     "dailyMinutesDown": {
-      "2024-04-15": 35
+      "2024-04-15": 41
     }
   },
   {
@@ -62,9 +62,9 @@
     "slug": "fabula-fantastica-mdzs",
     "status": "up",
     "uptime": "99.55%",
-    "uptimeDay": "98.27%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "98.76%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 636,
     "timeDay": 269,
@@ -72,7 +72,7 @@
     "timeMonth": 542,
     "timeYear": 631,
     "dailyMinutesDown": {
-      "2024-04-15": 25
+      "2024-04-15": 18
     }
   },
   {
@@ -80,19 +80,19 @@
     "url": "https://www.geschmacksache.online",
     "icon": "https://icons.duckduckgo.com/ip3/www.geschmacksache.online.ico",
     "slug": "geschmacksache",
-    "status": "down",
+    "status": "up",
     "uptime": "99.69%",
-    "uptimeDay": "97.14%",
-    "uptimeWeek": "99.59%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "96.76%",
+    "uptimeWeek": "99.54%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.99%",
-    "time": 1815,
-    "timeDay": 1463,
-    "timeWeek": 1600,
-    "timeMonth": 1740,
-    "timeYear": 1792,
+    "time": 1816,
+    "timeDay": 1591,
+    "timeWeek": 1646,
+    "timeMonth": 1751,
+    "timeYear": 1793,
     "dailyMinutesDown": {
-      "2024-04-15": 41
+      "2024-04-15": 47
     }
   }
 ]
