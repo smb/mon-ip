@@ -6,9 +6,9 @@
     "slug": "stefanie-braun-de",
     "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "98.67%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 1318,
     "timeDay": 1158,
@@ -16,7 +16,7 @@
     "timeMonth": 1260,
     "timeYear": 1329,
     "dailyMinutesDown": {
-      "2024-04-15": 10
+      "2024-04-15": 19
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://fabula-fantastica.online",
     "icon": "https://icons.duckduckgo.com/ip3/fabula-fantastica.online.ico",
     "slug": "fabula-fantastica",
-    "status": "down",
+    "status": "up",
     "uptime": "97.94%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 650,
-    "timeDay": 796,
-    "timeWeek": 639,
-    "timeMonth": 600,
-    "timeYear": 652,
+    "time": 655,
+    "timeDay": 1923,
+    "timeWeek": 940,
+    "timeMonth": 677,
+    "timeYear": 658,
     "dailyMinutesDown": {
-      "2024-04-15": 2
+      "2024-04-15": 9
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://swtor.fabula-fantastica.online",
     "icon": "https://icons.duckduckgo.com/ip3/swtor.fabula-fantastica.online.ico",
     "slug": "fabula-fantastica-swtor",
-    "status": "down",
+    "status": "up",
     "uptime": "99.55%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 627,
-    "timeDay": 508,
-    "timeWeek": 608,
-    "timeMonth": 584,
+    "timeDay": 464,
+    "timeWeek": 585,
+    "timeMonth": 579,
     "timeYear": 619,
     "dailyMinutesDown": {
-      "2024-04-15": 1
+      "2024-04-15": 9
     }
   },
   {
@@ -65,10 +65,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/mdzs.fabula-fantastica.online.ico",
     "slug": "fabula-fantastica-mdzs",
     "status": "down",
-    "uptime": "99.56%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptime": "99.55%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 638,
     "timeDay": 506,
@@ -76,7 +76,7 @@
     "timeMonth": 567,
     "timeYear": 634,
     "dailyMinutesDown": {
-      "2024-04-15": 1
+      "2024-04-15": 10
     }
   },
   {
@@ -86,9 +86,9 @@
     "slug": "geschmacksache",
     "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "98.86%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "98.26%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
     "time": 1817,
     "timeDay": 1883,
@@ -96,7 +96,7 @@
     "timeMonth": 1781,
     "timeYear": 1796,
     "dailyMinutesDown": {
-      "2024-04-15": 16
+      "2024-04-15": 25
     }
   }
 ]
