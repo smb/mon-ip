@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1318,
-    "timeDay": 1304,
-    "timeWeek": 1325,
-    "timeMonth": 1305,
-    "timeYear": 1312,
+    "timeDay": 1502,
+    "timeWeek": 1384,
+    "timeMonth": 1318,
+    "timeYear": 1313,
     "dailyMinutesDown": {
       "2024-04-15": 34
     }
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/fabula-fantastica.online.ico",
     "slug": "fabula-fantastica",
     "status": "up",
-    "uptime": "98.13%",
+    "uptime": "98.14%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 679,
-    "timeDay": 644,
-    "timeWeek": 673,
-    "timeMonth": 648,
-    "timeYear": 685,
+    "timeDay": 642,
+    "timeWeek": 681,
+    "timeMonth": 652,
+    "timeYear": 686,
     "dailyMinutesDown": {}
   },
   {
@@ -49,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 617,
-    "timeDay": 618,
-    "timeWeek": 659,
-    "timeMonth": 614,
+    "timeDay": 595,
+    "timeWeek": 662,
+    "timeMonth": 616,
     "timeYear": 605,
     "dailyMinutesDown": {}
   },
@@ -67,9 +67,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 625,
-    "timeDay": 617,
-    "timeWeek": 604,
-    "timeMonth": 611,
+    "timeDay": 906,
+    "timeWeek": 655,
+    "timeMonth": 624,
     "timeYear": 630,
     "dailyMinutesDown": {
       "2024-04-15": 18
@@ -87,10 +87,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1852,
-    "timeDay": 2104,
-    "timeWeek": 2111,
-    "timeMonth": 2057,
-    "timeYear": 1873,
+    "timeDay": 2050,
+    "timeWeek": 2114,
+    "timeMonth": 2066,
+    "timeYear": 1875,
     "dailyMinutesDown": {
       "2024-04-15": 41
     }
