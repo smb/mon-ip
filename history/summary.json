@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1318,
-    "timeDay": 1502,
-    "timeWeek": 1384,
-    "timeMonth": 1318,
-    "timeYear": 1313,
+    "time": 1320,
+    "timeDay": 1963,
+    "timeWeek": 1506,
+    "timeMonth": 1341,
+    "timeYear": 1316,
     "dailyMinutesDown": {
       "2024-04-15": 34
     }
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 679,
-    "timeDay": 642,
-    "timeWeek": 681,
-    "timeMonth": 652,
-    "timeYear": 686,
+    "timeDay": 1100,
+    "timeWeek": 760,
+    "timeMonth": 670,
+    "timeYear": 687,
     "dailyMinutesDown": {}
   },
   {
@@ -43,16 +43,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/swtor.fabula-fantastica.online.ico",
     "slug": "fabula-fantastica-swtor",
     "status": "up",
-    "uptime": "99.59%",
+    "uptime": "99.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 617,
-    "timeDay": 595,
-    "timeWeek": 662,
-    "timeMonth": 616,
-    "timeYear": 605,
+    "timeDay": 962,
+    "timeWeek": 725,
+    "timeMonth": 630,
+    "timeYear": 606,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 625,
-    "timeDay": 906,
-    "timeWeek": 655,
-    "timeMonth": 624,
-    "timeYear": 630,
+    "time": 626,
+    "timeDay": 878,
+    "timeWeek": 706,
+    "timeMonth": 635,
+    "timeYear": 631,
     "dailyMinutesDown": {
       "2024-04-15": 18
     }
@@ -86,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1852,
-    "timeDay": 2050,
-    "timeWeek": 2114,
-    "timeMonth": 2066,
-    "timeYear": 1875,
+    "time": 1854,
+    "timeDay": 2831,
+    "timeWeek": 2243,
+    "timeMonth": 2103,
+    "timeYear": 1878,
     "dailyMinutesDown": {
       "2024-04-15": 41
     }
