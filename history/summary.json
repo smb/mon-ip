@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1312,
-    "timeDay": 1041,
-    "timeWeek": 1178,
-    "timeMonth": 1273,
-    "timeYear": 1307,
+    "timeDay": 1631,
+    "timeWeek": 1274,
+    "timeMonth": 1289,
+    "timeYear": 1308,
     "dailyMinutesDown": {
       "2024-04-15": 34
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 678,
-    "timeDay": 543,
-    "timeWeek": 601,
-    "timeMonth": 634,
+    "timeDay": 796,
+    "timeWeek": 628,
+    "timeMonth": 642,
     "timeYear": 685,
     "dailyMinutesDown": {}
   },
@@ -49,10 +49,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 615,
-    "timeDay": 479,
-    "timeWeek": 558,
-    "timeMonth": 609,
-    "timeYear": 604,
+    "timeDay": 842,
+    "timeWeek": 605,
+    "timeMonth": 619,
+    "timeYear": 605,
     "dailyMinutesDown": {}
   },
   {
@@ -67,10 +67,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 624,
-    "timeDay": 548,
-    "timeWeek": 563,
-    "timeMonth": 600,
-    "timeYear": 628,
+    "timeDay": 843,
+    "timeWeek": 615,
+    "timeMonth": 611,
+    "timeYear": 629,
     "dailyMinutesDown": {
       "2024-04-15": 18
     }
@@ -81,16 +81,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.geschmacksache.online.ico",
     "slug": "geschmacksache",
     "status": "up",
-    "uptime": "99.72%",
+    "uptime": "99.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1867,
-    "timeDay": 1697,
-    "timeWeek": 2107,
-    "timeMonth": 2112,
-    "timeYear": 1894,
+    "time": 1868,
+    "timeDay": 2403,
+    "timeWeek": 2145,
+    "timeMonth": 2132,
+    "timeYear": 1895,
     "dailyMinutesDown": {
       "2024-04-15": 41
     }
