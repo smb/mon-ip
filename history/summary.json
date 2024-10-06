@@ -4,10 +4,10 @@
     "url": "https://www.stefanie-braun.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.stefanie-braun.de.ico",
     "slug": "stefanie-braun-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1316,
@@ -16,6 +16,7 @@
     "timeMonth": 1356,
     "timeYear": 1316,
     "dailyMinutesDown": {
+      "2024-10-06": 2,
       "2024-04-15": 34
     }
   },
@@ -24,10 +25,10 @@
     "url": "https://fabula-fantastica.online",
     "icon": "https://icons.duckduckgo.com/ip3/fabula-fantastica.online.ico",
     "slug": "fabula-fantastica",
-    "status": "up",
+    "status": "down",
     "uptime": "98.20%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 681,
@@ -35,17 +36,19 @@
     "timeWeek": 764,
     "timeMonth": 660,
     "timeYear": 689,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-06": 2
+    }
   },
   {
     "name": "Fabula-Fantastica - SWTOR",
     "url": "https://swtor.fabula-fantastica.online",
     "icon": "https://icons.duckduckgo.com/ip3/swtor.fabula-fantastica.online.ico",
     "slug": "fabula-fantastica-swtor",
-    "status": "up",
+    "status": "down",
     "uptime": "99.61%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 619,
@@ -53,17 +56,19 @@
     "timeWeek": 742,
     "timeMonth": 637,
     "timeYear": 607,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-06": 1
+    }
   },
   {
     "name": "Fabula-Fantastica - MDZS",
     "url": "https://mdzs.fabula-fantastica.online",
     "icon": "https://icons.duckduckgo.com/ip3/mdzs.fabula-fantastica.online.ico",
     "slug": "fabula-fantastica-mdzs",
-    "status": "up",
+    "status": "down",
     "uptime": "99.61%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 629,
@@ -72,6 +77,7 @@
     "timeMonth": 639,
     "timeYear": 633,
     "dailyMinutesDown": {
+      "2024-10-06": 1,
       "2024-04-15": 18
     }
   },
@@ -80,18 +86,19 @@
     "url": "https://www.geschmacksache.online",
     "icon": "https://icons.duckduckgo.com/ip3/www.geschmacksache.online.ico",
     "slug": "geschmacksache",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1884,
+    "time": 1885,
     "timeDay": 1640,
     "timeWeek": 2181,
     "timeMonth": 2044,
     "timeYear": 1905,
     "dailyMinutesDown": {
+      "2024-10-06": 0,
       "2024-04-15": 41
     }
   }
