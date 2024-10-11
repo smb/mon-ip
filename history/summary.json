@@ -80,19 +80,19 @@
     "url": "https://www.geschmacksache.online",
     "icon": "https://icons.duckduckgo.com/ip3/www.geschmacksache.online.ico",
     "slug": "geschmacksache",
-    "status": "down",
+    "status": "up",
     "uptime": "99.73%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.25%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
     "time": 1887,
-    "timeDay": 2710,
-    "timeWeek": 1869,
-    "timeMonth": 1975,
-    "timeYear": 1905,
+    "timeDay": 2392,
+    "timeWeek": 1886,
+    "timeMonth": 1977,
+    "timeYear": 1906,
     "dailyMinutesDown": {
-      "2024-10-11": 0,
+      "2024-10-11": 11,
       "2024-04-15": 41
     }
   }
