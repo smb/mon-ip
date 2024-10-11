@@ -4,10 +4,10 @@
     "url": "https://www.stefanie-braun.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.stefanie-braun.de.ico",
     "slug": "stefanie-braun-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1316,
@@ -16,6 +16,7 @@
     "timeMonth": 1374,
     "timeYear": 1319,
     "dailyMinutesDown": {
+      "2024-10-11": 1,
       "2024-04-15": 34
     }
   },
@@ -82,9 +83,9 @@
     "slug": "geschmacksache",
     "status": "up",
     "uptime": "99.73%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1887,
     "timeDay": 2392,
@@ -92,7 +93,6 @@
     "timeMonth": 1977,
     "timeYear": 1906,
     "dailyMinutesDown": {
-      "2024-10-11": 11,
       "2024-04-15": 41
     }
   }
