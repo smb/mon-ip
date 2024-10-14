@@ -6,9 +6,9 @@
     "slug": "stefanie-braun-de",
     "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "92.54%",
-    "uptimeWeek": "98.93%",
-    "uptimeMonth": "99.75%",
+    "uptimeDay": "91.84%",
+    "uptimeWeek": "98.83%",
+    "uptimeMonth": "99.73%",
     "uptimeYear": "99.97%",
     "time": 1321,
     "timeDay": 1975,
@@ -16,7 +16,7 @@
     "timeMonth": 1407,
     "timeYear": 1320,
     "dailyMinutesDown": {
-      "2024-10-14": 107,
+      "2024-10-14": 117,
       "2024-04-15": 34
     }
   },
@@ -25,10 +25,10 @@
     "url": "https://fabula-fantastica.online",
     "icon": "https://icons.duckduckgo.com/ip3/fabula-fantastica.online.ico",
     "slug": "fabula-fantastica",
-    "status": "up",
+    "status": "down",
     "uptime": "98.21%",
-    "uptimeDay": "97.65%",
-    "uptimeWeek": "99.66%",
+    "uptimeDay": "97.57%",
+    "uptimeWeek": "99.65%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
     "time": 685,
@@ -37,7 +37,7 @@
     "timeMonth": 747,
     "timeYear": 696,
     "dailyMinutesDown": {
-      "2024-10-14": 34
+      "2024-10-14": 35
     }
   },
   {
@@ -45,19 +45,19 @@
     "url": "https://swtor.fabula-fantastica.online",
     "icon": "https://icons.duckduckgo.com/ip3/swtor.fabula-fantastica.online.ico",
     "slug": "fabula-fantastica-swtor",
-    "status": "down",
+    "status": "up",
     "uptime": "99.61%",
-    "uptimeDay": "96.69%",
-    "uptimeWeek": "99.53%",
-    "uptimeMonth": "99.89%",
+    "uptimeDay": "96.06%",
+    "uptimeWeek": "99.44%",
+    "uptimeMonth": "99.87%",
     "uptimeYear": "99.99%",
-    "time": 615,
-    "timeDay": 519,
-    "timeWeek": 690,
-    "timeMonth": 677,
-    "timeYear": 611,
+    "time": 614,
+    "timeDay": 428,
+    "timeWeek": 646,
+    "timeMonth": 663,
+    "timeYear": 610,
     "dailyMinutesDown": {
-      "2024-10-14": 48
+      "2024-10-14": 57
     }
   },
   {
