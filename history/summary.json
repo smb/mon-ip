@@ -6,9 +6,9 @@
     "slug": "stefanie-braun-de",
     "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "98.72%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 1321,
     "timeDay": 1975,
@@ -16,7 +16,7 @@
     "timeMonth": 1407,
     "timeYear": 1320,
     "dailyMinutesDown": {
-      "2024-10-14": 3,
+      "2024-10-14": 18,
       "2024-04-15": 34
     }
   },
@@ -27,9 +27,9 @@
     "slug": "fabula-fantastica",
     "status": "down",
     "uptime": "98.21%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.77%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 686,
     "timeDay": 873,
@@ -37,7 +37,7 @@
     "timeMonth": 754,
     "timeYear": 697,
     "dailyMinutesDown": {
-      "2024-10-14": 2
+      "2024-10-14": 18
     }
   },
   {
@@ -47,9 +47,9 @@
     "slug": "fabula-fantastica-swtor",
     "status": "down",
     "uptime": "99.61%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.81%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 618,
     "timeDay": 867,
@@ -57,7 +57,7 @@
     "timeMonth": 696,
     "timeYear": 613,
     "dailyMinutesDown": {
-      "2024-10-14": 2
+      "2024-10-14": 17
     }
   },
   {
@@ -65,19 +65,19 @@
     "url": "https://mdzs.fabula-fantastica.online",
     "icon": "https://icons.duckduckgo.com/ip3/mdzs.fabula-fantastica.online.ico",
     "slug": "fabula-fantastica-mdzs",
-    "status": "down",
+    "status": "up",
     "uptime": "99.61%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 635,
-    "timeDay": 862,
-    "timeWeek": 947,
-    "timeMonth": 740,
-    "timeYear": 643,
+    "uptimeDay": "98.91%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
+    "time": 640,
+    "timeDay": 1852,
+    "timeWeek": 1137,
+    "timeMonth": 800,
+    "timeYear": 649,
     "dailyMinutesDown": {
-      "2024-10-14": 1,
+      "2024-10-14": 16,
       "2024-04-15": 18
     }
   },
@@ -88,9 +88,9 @@
     "slug": "geschmacksache",
     "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.90%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 1890,
     "timeDay": 2841,
@@ -98,7 +98,7 @@
     "timeMonth": 1997,
     "timeYear": 1908,
     "dailyMinutesDown": {
-      "2024-10-14": 0,
+      "2024-10-14": 16,
       "2024-04-15": 41
     }
   }
