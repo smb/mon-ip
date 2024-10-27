@@ -25,10 +25,10 @@
     "url": "https://fabula-fantastica.online",
     "icon": "https://icons.duckduckgo.com/ip3/fabula-fantastica.online.ico",
     "slug": "fabula-fantastica",
-    "status": "up",
+    "status": "down",
     "uptime": "98.23%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
     "time": 680,
@@ -37,6 +37,7 @@
     "timeMonth": 735,
     "timeYear": 695,
     "dailyMinutesDown": {
+      "2024-10-27": 1,
       "2024-10-14": 34
     }
   },
@@ -45,10 +46,10 @@
     "url": "https://swtor.fabula-fantastica.online",
     "icon": "https://icons.duckduckgo.com/ip3/swtor.fabula-fantastica.online.ico",
     "slug": "fabula-fantastica-swtor",
-    "status": "up",
+    "status": "down",
     "uptime": "99.61%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.99%",
     "time": 620,
@@ -57,6 +58,7 @@
     "timeMonth": 667,
     "timeYear": 610,
     "dailyMinutesDown": {
+      "2024-10-27": 1,
       "2024-10-14": 47
     }
   },
@@ -65,9 +67,9 @@
     "url": "https://mdzs.fabula-fantastica.online",
     "icon": "https://icons.duckduckgo.com/ip3/mdzs.fabula-fantastica.online.ico",
     "slug": "fabula-fantastica-mdzs",
-    "status": "up",
+    "status": "down",
     "uptime": "99.62%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
@@ -77,6 +79,7 @@
     "timeMonth": 782,
     "timeYear": 649,
     "dailyMinutesDown": {
+      "2024-10-27": 0,
       "2024-10-14": 16,
       "2024-04-15": 18
     }
@@ -86,9 +89,9 @@
     "url": "https://www.geschmacksache.online",
     "icon": "https://icons.duckduckgo.com/ip3/www.geschmacksache.online.ico",
     "slug": "geschmacksache",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.97%",
@@ -98,6 +101,7 @@
     "timeMonth": 1943,
     "timeYear": 1901,
     "dailyMinutesDown": {
+      "2024-10-27": 0,
       "2024-10-14": 98,
       "2024-04-15": 41
     }
