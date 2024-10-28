@@ -6,17 +6,16 @@
     "slug": "stefanie-braun-de",
     "status": "up",
     "uptime": "99.73%",
-    "uptimeDay": "99.05%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.68%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.71%",
     "uptimeYear": "99.97%",
     "time": 1321,
-    "timeDay": 1599,
-    "timeWeek": 1375,
-    "timeMonth": 1378,
+    "timeDay": 1304,
+    "timeWeek": 1402,
+    "timeMonth": 1372,
     "timeYear": 1317,
     "dailyMinutesDown": {
-      "2024-10-27": 14,
       "2024-10-14": 127,
       "2024-04-15": 34
     }
@@ -33,9 +32,9 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
     "time": 679,
-    "timeDay": 661,
-    "timeWeek": 646,
-    "timeMonth": 729,
+    "timeDay": 488,
+    "timeWeek": 661,
+    "timeMonth": 728,
     "timeYear": 694,
     "dailyMinutesDown": {
       "2024-10-14": 34
@@ -53,10 +52,10 @@
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.99%",
     "time": 619,
-    "timeDay": 472,
-    "timeWeek": 603,
-    "timeMonth": 654,
-    "timeYear": 609,
+    "timeDay": 285,
+    "timeWeek": 609,
+    "timeMonth": 651,
+    "timeYear": 608,
     "dailyMinutesDown": {
       "2024-10-14": 47
     }
@@ -72,10 +71,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 638,
-    "timeDay": 1699,
-    "timeWeek": 828,
-    "timeMonth": 822,
+    "time": 637,
+    "timeDay": 1462,
+    "timeWeek": 867,
+    "timeMonth": 821,
     "timeYear": 653,
     "dailyMinutesDown": {
       "2024-10-14": 16,
@@ -93,11 +92,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.97%",
-    "time": 1872,
-    "timeDay": 1834,
-    "timeWeek": 1767,
-    "timeMonth": 1930,
-    "timeYear": 1900,
+    "time": 1871,
+    "timeDay": 1352,
+    "timeWeek": 1786,
+    "timeMonth": 1918,
+    "timeYear": 1899,
     "dailyMinutesDown": {
       "2024-10-14": 98,
       "2024-04-15": 41
