@@ -13,7 +13,7 @@
     "time": 1323,
     "timeDay": 1227,
     "timeWeek": 1380,
-    "timeMonth": 1326,
+    "timeMonth": 1336,
     "timeYear": 1316,
     "dailyMinutesDown": {
       "2024-10-14": 127,
@@ -34,7 +34,7 @@
     "time": 678,
     "timeDay": 590,
     "timeWeek": 680,
-    "timeMonth": 636,
+    "timeMonth": 638,
     "timeYear": 694,
     "dailyMinutesDown": {
       "2024-10-14": 34
@@ -54,7 +54,7 @@
     "time": 618,
     "timeDay": 569,
     "timeWeek": 645,
-    "timeMonth": 603,
+    "timeMonth": 604,
     "timeYear": 608,
     "dailyMinutesDown": {
       "2024-10-14": 47
@@ -74,7 +74,7 @@
     "time": 637,
     "timeDay": 571,
     "timeWeek": 646,
-    "timeMonth": 672,
+    "timeMonth": 675,
     "timeYear": 618,
     "dailyMinutesDown": {
       "2024-10-14": 16,
@@ -86,18 +86,19 @@
     "url": "https://www.geschmacksache.online",
     "icon": "https://icons.duckduckgo.com/ip3/www.geschmacksache.online.ico",
     "slug": "geschmacksache",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 1874,
     "timeDay": 1824,
     "timeWeek": 2056,
-    "timeMonth": 1846,
+    "timeMonth": 1850,
     "timeYear": 1905,
     "dailyMinutesDown": {
+      "2024-11-15": 0,
       "2024-10-14": 98,
       "2024-04-15": 41
     }
