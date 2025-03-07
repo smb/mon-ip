@@ -4,10 +4,10 @@
     "url": "https://www.stefanie-braun.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.stefanie-braun.de.ico",
     "slug": "stefanie-braun-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "98.32%",
-    "uptimeWeek": "99.76%",
+    "uptimeDay": "98.14%",
+    "uptimeWeek": "99.73%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.96%",
     "time": 1330,
@@ -16,7 +16,7 @@
     "timeMonth": 1425,
     "timeYear": 1330,
     "dailyMinutesDown": {
-      "2025-03-07": 24,
+      "2025-03-07": 27,
       "2024-10-14": 127,
       "2024-04-15": 34
     }
@@ -26,11 +26,11 @@
     "url": "https://fabula-fantastica.online",
     "icon": "https://icons.duckduckgo.com/ip3/fabula-fantastica.online.ico",
     "slug": "fabula-fantastica",
-    "status": "up",
+    "status": "down",
     "uptime": "98.38%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 679,
     "timeDay": 618,
@@ -38,7 +38,7 @@
     "timeMonth": 671,
     "timeYear": 689,
     "dailyMinutesDown": {
-      "2025-03-07": 9,
+      "2025-03-07": 2,
       "2024-10-14": 34
     }
   },
@@ -47,11 +47,11 @@
     "url": "https://swtor.fabula-fantastica.online",
     "icon": "https://icons.duckduckgo.com/ip3/swtor.fabula-fantastica.online.ico",
     "slug": "fabula-fantastica-swtor",
-    "status": "up",
+    "status": "down",
     "uptime": "99.65%",
-    "uptimeDay": "98.38%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "98.28%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 624,
     "timeDay": 1857,
@@ -59,7 +59,7 @@
     "timeMonth": 789,
     "timeYear": 632,
     "dailyMinutesDown": {
-      "2025-03-07": 23,
+      "2025-03-07": 24,
       "2024-10-14": 47
     }
   },
@@ -70,9 +70,9 @@
     "slug": "fabula-fantastica-mdzs",
     "status": "up",
     "uptime": "99.65%",
-    "uptimeDay": "98.23%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "98.79%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 617,
     "timeDay": 595,
@@ -80,7 +80,7 @@
     "timeMonth": 616,
     "timeYear": 628,
     "dailyMinutesDown": {
-      "2025-03-07": 25,
+      "2025-03-07": 17,
       "2024-10-14": 16,
       "2024-04-15": 18
     }
@@ -90,10 +90,10 @@
     "url": "https://www.geschmacksache.online",
     "icon": "https://icons.duckduckgo.com/ip3/www.geschmacksache.online.ico",
     "slug": "geschmacksache",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "96.83%",
-    "uptimeWeek": "99.55%",
+    "uptimeDay": "96.81%",
+    "uptimeWeek": "99.54%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.96%",
     "time": 1890,
