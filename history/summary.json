@@ -10,15 +10,14 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 1339,
-    "timeDay": 1412,
-    "timeWeek": 1471,
-    "timeMonth": 1444,
+    "time": 1338,
+    "timeDay": 1120,
+    "timeWeek": 1419,
+    "timeMonth": 1442,
     "timeYear": 1344,
     "dailyMinutesDown": {
       "2025-03-07": 69,
-      "2024-10-14": 127,
-      "2024-04-15": 34
+      "2024-10-14": 127
     }
   },
   {
@@ -33,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 683,
-    "timeDay": 682,
-    "timeWeek": 684,
-    "timeMonth": 671,
+    "timeDay": 729,
+    "timeWeek": 695,
+    "timeMonth": 677,
     "timeYear": 696,
     "dailyMinutesDown": {
       "2024-10-14": 34
@@ -53,9 +52,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 632,
-    "timeDay": 673,
-    "timeWeek": 675,
-    "timeMonth": 653,
+    "timeDay": 560,
+    "timeWeek": 664,
+    "timeMonth": 654,
     "timeYear": 647,
     "dailyMinutesDown": {
       "2025-03-07": 23,
@@ -74,14 +73,13 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 646,
-    "timeDay": 636,
-    "timeWeek": 686,
-    "timeMonth": 649,
+    "timeDay": 559,
+    "timeWeek": 674,
+    "timeMonth": 651,
     "timeYear": 640,
     "dailyMinutesDown": {
       "2025-03-07": 34,
-      "2024-10-14": 16,
-      "2024-04-15": 18
+      "2024-10-14": 16
     }
   },
   {
@@ -90,20 +88,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.geschmacksache.online.ico",
     "slug": "geschmacksache",
     "status": "up",
-    "uptime": "99.75%",
+    "uptime": "99.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 1891,
-    "timeDay": 2141,
-    "timeWeek": 2068,
-    "timeMonth": 1943,
+    "timeDay": 1763,
+    "timeWeek": 2007,
+    "timeMonth": 1942,
     "timeYear": 1942,
     "dailyMinutesDown": {
       "2025-03-07": 72,
-      "2024-10-14": 98,
-      "2024-04-15": 41
+      "2024-10-14": 98
     }
   }
 ]
