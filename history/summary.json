@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1372,
-    "timeDay": 1580,
-    "timeWeek": 1418,
-    "timeMonth": 1414,
-    "timeYear": 1375,
+    "time": 1370,
+    "timeDay": 1210,
+    "timeWeek": 1379,
+    "timeMonth": 1418,
+    "timeYear": 1374,
     "dailyMinutesDown": {
       "2025-03-07": 69
     }
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 674,
-    "timeDay": 646,
-    "timeWeek": 628,
-    "timeMonth": 699,
-    "timeYear": 674,
+    "timeDay": 512,
+    "timeWeek": 619,
+    "timeMonth": 697,
+    "timeYear": 673,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 660,
-    "timeDay": 695,
-    "timeWeek": 614,
-    "timeMonth": 665,
-    "timeYear": 669,
+    "time": 659,
+    "timeDay": 490,
+    "timeWeek": 608,
+    "timeMonth": 663,
+    "timeYear": 667,
     "dailyMinutesDown": {
       "2025-03-07": 23
     }
@@ -63,16 +63,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/mdzs.fabula-fantastica.online.ico",
     "slug": "fabula-fantastica-mdzs",
     "status": "up",
-    "uptime": "99.70%",
+    "uptime": "99.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 643,
-    "timeDay": 650,
-    "timeWeek": 631,
-    "timeMonth": 643,
-    "timeYear": 629,
+    "timeDay": 467,
+    "timeWeek": 606,
+    "timeMonth": 639,
+    "timeYear": 628,
     "dailyMinutesDown": {
       "2025-03-07": 34
     }
@@ -88,11 +88,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1936,
-    "timeDay": 2109,
-    "timeWeek": 1844,
-    "timeMonth": 1991,
-    "timeYear": 1959,
+    "time": 1935,
+    "timeDay": 1686,
+    "timeWeek": 1843,
+    "timeMonth": 1981,
+    "timeYear": 1958,
     "dailyMinutesDown": {
       "2025-03-07": 72
     }
